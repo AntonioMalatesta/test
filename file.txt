@@ -4,4 +4,4 @@ riga 2
 riga 4
 riga 5
 riga 6
-riga 7
+riga 7 minnocci
